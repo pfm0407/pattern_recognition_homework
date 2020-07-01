@@ -1,0 +1,2 @@
+# pattern_recognition_homework
+华中科技大学人工智能与自动化学院模式识别作业
